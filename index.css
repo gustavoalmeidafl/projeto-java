@@ -21,11 +21,9 @@ header input{
     border-radius: 8px;
     font-size: 16px;
 }
-
 #tarefas{ 
     padding:60px 10px;
 }
-
 #tarefas h2{
     display: flex;
     justify-content: space-between;
